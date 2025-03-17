@@ -1,0 +1,9 @@
+tkinter
+math
+random
+numpy
+scipy.optimize
+PIL
+time
+matplotlib.pyplot
+matplotlib.backends.backend_tkagg
